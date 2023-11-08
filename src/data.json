@@ -1,0 +1,39 @@
+{
+    "a1": {
+      "type": "folder",
+      "child": ["a11", "a12"]
+    },
+    "a11": {
+      "type": "folder",
+      "child": ["a11.txt"]
+    },
+    "a12": {
+      "type": "folder",
+      "child": ["a12.txt"]
+    },
+    "a2": {
+      "type": "folder",
+      "child": ["a21", "a22"]
+    },
+    "a21": {
+      "type": "folder",
+      "child": ["a21.txt"]
+    },
+    "a22": {
+      "type": "folder",
+      "child": ["a221", "a222", "a22.txt"]
+    },
+    "a221": {
+      "type": "folder",
+      "child": ["a221.txt"]
+    },
+    "a3": {
+      "type": "folder",
+      "child": ["a31.txt", "a31"]
+    },
+    "root": {
+      "type": "folder",
+      "child": ["a1", "a2", "a3"]
+    }
+  }
+  
